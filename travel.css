@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    background-color: honeydew;
+}
+#header{
+    background-image: url(photo3.png);
+    margin: 0px auto;
+    width: 1200px; 
+    height: 225px;
+    text-align: center;
+}
+#header .navlist li{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 100px;
+    list-style: none;
+}
+#header .navlist a{
+    color: aliceblue;
+}
+.container{
+    width: 1200px;
+    margin: 30px auto;
+}
+.column1 .column1-1{
+    width: 600px;
+    height: 397px;
+    float: left;
+    
+}
+.column1 .column1-2{
+    width: 590px;
+    height: 397px;
+    float: right;
+    margin-left: 10px;
+}
+.container 
+.小标题{
+    margin-block-start: 0;
+}
+.column2 .column2-1{
+    width: 600px;
+    height: 255px;
+    float: left;
+}
+.column2 .column2-2{
+    width: 600px;
+    height: 255px;
+    float: right;
+    background-color: aliceblue;
+}
+.column3 .column3-1{
+    width: 600px;
+    height: 375px;
+    float: left;
+}
+.column3 .column3-2{
+    width: 590px;
+    height: 375px;
+    float: right;
+    margin-left: 10px;
+}
+.clear{
+    clear: both;
+}
+
